@@ -1,0 +1,15 @@
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\Grafo\Grafo\bin\Debug\net6.0\Grafo.exe
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\Grafo\Grafo\bin\Debug\net6.0\Grafo.deps.json
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\Grafo\Grafo\bin\Debug\net6.0\Grafo.runtimeconfig.json
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\Grafo\Grafo\bin\Debug\net6.0\Grafo.dll
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\Grafo\Grafo\bin\Debug\net6.0\Grafo.pdb
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\Grafo\Grafo\obj\Debug\net6.0\Grafo.csproj.AssemblyReference.cache
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\Grafo\Grafo\obj\Debug\net6.0\Grafo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\Grafo\Grafo\obj\Debug\net6.0\Grafo.AssemblyInfoInputs.cache
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\Grafo\Grafo\obj\Debug\net6.0\Grafo.AssemblyInfo.cs
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\Grafo\Grafo\obj\Debug\net6.0\Grafo.csproj.CoreCompileInputs.cache
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\Grafo\Grafo\obj\Debug\net6.0\Grafo.dll
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\Grafo\Grafo\obj\Debug\net6.0\refint\Grafo.dll
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\Grafo\Grafo\obj\Debug\net6.0\Grafo.pdb
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\Grafo\Grafo\obj\Debug\net6.0\Grafo.genruntimeconfig.cache
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\Grafo\Grafo\obj\Debug\net6.0\ref\Grafo.dll

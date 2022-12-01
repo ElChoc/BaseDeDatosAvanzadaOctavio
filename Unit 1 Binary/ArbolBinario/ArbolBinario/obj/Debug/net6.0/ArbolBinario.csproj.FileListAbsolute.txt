@@ -1,0 +1,15 @@
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\ArbolBinario\ArbolBinario\bin\Debug\net6.0\ArbolBinario.exe
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\ArbolBinario\ArbolBinario\bin\Debug\net6.0\ArbolBinario.deps.json
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\ArbolBinario\ArbolBinario\bin\Debug\net6.0\ArbolBinario.runtimeconfig.json
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\ArbolBinario\ArbolBinario\bin\Debug\net6.0\ArbolBinario.dll
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\ArbolBinario\ArbolBinario\bin\Debug\net6.0\ArbolBinario.pdb
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\ArbolBinario\ArbolBinario\obj\Debug\net6.0\ArbolBinario.csproj.AssemblyReference.cache
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\ArbolBinario\ArbolBinario\obj\Debug\net6.0\ArbolBinario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\ArbolBinario\ArbolBinario\obj\Debug\net6.0\ArbolBinario.AssemblyInfoInputs.cache
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\ArbolBinario\ArbolBinario\obj\Debug\net6.0\ArbolBinario.AssemblyInfo.cs
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\ArbolBinario\ArbolBinario\obj\Debug\net6.0\ArbolBinario.csproj.CoreCompileInputs.cache
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\ArbolBinario\ArbolBinario\obj\Debug\net6.0\ArbolBinario.dll
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\ArbolBinario\ArbolBinario\obj\Debug\net6.0\refint\ArbolBinario.dll
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\ArbolBinario\ArbolBinario\obj\Debug\net6.0\ArbolBinario.pdb
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\ArbolBinario\ArbolBinario\obj\Debug\net6.0\ArbolBinario.genruntimeconfig.cache
+D:\Documentos de Fer\Programas Unipoli\Octavio Advance Data\ArbolBinario\ArbolBinario\obj\Debug\net6.0\ref\ArbolBinario.dll
